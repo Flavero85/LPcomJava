@@ -2,4 +2,4 @@
 
 let temperatura
 temperatura = 37
-console.log("a temperatura em celsius é: " + (temperatura - 32 / 9))
+console.log("a temperatura em celsius é: " + ((temperatura - 32 / 9).toFixed(2)))
