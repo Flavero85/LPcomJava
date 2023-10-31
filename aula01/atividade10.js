@@ -17,3 +17,4 @@ mes = 30
 
 console.log("seu salario total é: " + (salario * horas_trabalhadas * mes))
 
+
