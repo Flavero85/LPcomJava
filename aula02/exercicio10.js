@@ -3,7 +3,7 @@
 //b.    Entre 2 e 5 anos → Pleno
 //c.    Acima de 5 anos → Sênior
 
-let anos_experiencia = 8
+let anos_experiencia = 1
 
 if(anos_experiencia < 2 ){
     console.log("Junior")
