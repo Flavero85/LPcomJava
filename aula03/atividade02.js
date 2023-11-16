@@ -21,7 +21,7 @@ console.log("Você acaba de chegar na cidade e foi logo procurarum igreja para o
 console.log("Voce ouve um borburinho sobre o capeta da xuxa influenciando os baixinhos")
 console.log("Voce tenta se aproxximar e a xuxa começa a cantar marquei um x um x um x no seu coração. Role o dado e faça um teste e ve se consegue quebrar o disco de vinil")
 
-let dado = Math.floor(Math.random() * (6 - 1 + 1 ))
+let dado = Math.floor(Math.random() * (6 - 1 + 1)) + 1
 if(dado > 5){
     console.log("SUCESSO!!! Voce conseguiu desligar a vitrola")
 }else{
